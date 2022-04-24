@@ -23,7 +23,7 @@ _Регулярно пополняемая репа проектами на Pyth
 ---
 
 <div>
- <h2>Music Box</h2> <br>
+ <h1>Music Box</h1> <br>
   <p>
     <img src="PROJEC_IMGS/musicbox.png" alt='Главный экран игры' width='300' height='300'>
   </p>
