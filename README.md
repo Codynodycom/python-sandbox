@@ -1,5 +1,5 @@
 
-<h1 align="center">Simple Snake</h1>
+<h1 align="center">Проекты</h1>
 
 <p align="left">
  
@@ -18,17 +18,12 @@
   <img src="https://img.shields.io/github/stars/jonotyan/python">
 </p>
 
-  
-
-
 _Регулярно пополняемая репа проектами на Python_
 
 ---
 
-<h1 align="center">Проекты</h1>
-
 <div>
- <h3>Music Box</h3>
+ <h2>Music Box</h2> <br>
   <p>
     <img src="PROJEC_IMGS/musicbox.png" alt='Главный экран игры' width='300' height='300'>
   </p>
