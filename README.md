@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/github/stars/jonotyan/python">
 </p>
 
-_Регулярно пополняемая репа проектами на Python_
+_Регулярно пополняемая репа проектами на Python_<br>
 В разделе <a href="https://github.com/jonotyan/python/tree/main/simple%20elements">simple elements</a> лежат отдельные функции фреймворков.
 
 ---
