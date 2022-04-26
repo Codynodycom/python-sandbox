@@ -19,6 +19,7 @@
 </p>
 
 _Регулярно пополняемая репа проектами на Python_
+В разделе <a href="https://github.com/jonotyan/python/tree/main/simple%20elements">simple elements</a> лежат отдельные функции фреймворков.
 
 ---
 
