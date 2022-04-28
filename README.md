@@ -43,5 +43,12 @@ _Регулярно пополняемая репа проектами на Pyth
 
 
 <div>
- 
+ <h1>Простой переводчик</h1> <br>
+ <p>
+   <b>Краткое описание:</b><br>
+   Один из самых быстрых и простых модулей для перевода. Модуль работает с Microsoft Translation API, MyMemory API, LibreTranslate и API DeepL. Просто выбираешь с какого на кокой язык перевести и вводишь текст для перевода.<br><br>
+   <video>
+    <source src="PROJEC_IMGS/transl.mp4">
+   </video>
+ </p>
 </div>
