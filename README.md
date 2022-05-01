@@ -55,7 +55,7 @@ _Регулярно пополняемая репа проектами на Pyth
  <h1>Flappy Bird</h1> <br>
  <p>
    <b>Краткое описание:</b><br>
-   <br>Аналог мобильной игры Flappy Bird на pygame<br>
+   <br>Аналог мобильной игры Flappy Bird на pygame<br><br>
    <img src="PROJEC_IMGS/birds.png" alt='' width='200' height='300'>
  </p>
 </div>
