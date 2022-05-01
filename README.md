@@ -28,8 +28,8 @@ _Регулярно пополняемая репа проектами на Pyth
  <p>
    <b>Краткое описание:</b><br>
    Элементарное воспроизведение .mp3 и .ogg файлов через <b>pygame</b>. <br><br>
-   <a href="https://github.com/jonotyan/python/tree/main/2D%20games/pygame/musicBox">Проект</a>
    <img src="PROJEC_IMGS/musicbox.png" alt='Главный экран игры' width='300' height='300'>
+   <br><a href="https://github.com/jonotyan/python/tree/main/2D%20games/pygame/musicBox">Проект</a>
  </p>
  <h3>Функционал</h3>
  
@@ -47,8 +47,8 @@ _Регулярно пополняемая репа проектами на Pyth
  <p>
    <b>Краткое описание:</b><br>
    Один из самых быстрых и простых модулей для перевода. Модуль работает с Microsoft Translation API, MyMemory API, LibreTranslate и API DeepL. Просто выбираешь с какого на кокой язык перевести и вводишь текст для перевода.<br><br>
-  <a href="https://github.com/jonotyan/python/blob/main/cmd/translater/translating.py">Проект</a>
    <img src="PROJEC_IMGS/transl.gif" alt='' width='300' height='200'>
+   <br><a href="https://github.com/jonotyan/python/blob/main/cmd/translater/translating.py">Проект</a>
  </p>
 </div>
 
@@ -58,7 +58,7 @@ _Регулярно пополняемая репа проектами на Pyth
  <p>
    <b>Краткое описание:</b><br>
    Аналог мобильной игры Flappy Bird на pygame<br><br>
-   <a href="https://github.com/jonotyan/python/tree/main/2D%20games/pygame/FlappyBird">Проект</a>
    <img src="PROJEC_IMGS/birds.png" alt='' width='200' height='300'>
+   <br><a href="https://github.com/jonotyan/python/tree/main/2D%20games/pygame/FlappyBird">Проект</a>
  </p>
 </div>
