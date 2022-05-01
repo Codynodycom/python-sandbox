@@ -52,10 +52,10 @@ _Регулярно пополняемая репа проектами на Pyth
 
 
 <div>
- <h1></h1> <br>
+ <h1>Flappy Bird</h1> <br>
  <p>
-   <b></b><br>
-   <br><br>
-   <img src="PROJEC_IMGS/" alt='' width='300' height='200'>
+   <b>Краткое описание:</b><br>
+   <br>Аналог мобильной игры Flappy Bird на pygame<br>
+   <img src="PROJEC_IMGS/bird.png" alt='' width='200' height='300'>
  </p>
 </div>
