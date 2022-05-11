@@ -69,7 +69,7 @@ _Регулярно пополняемая репа проектами на Pyth
  <p>
    <b>Краткое описание:</b><br>
    Голосовой помощник на python. Слушает микрофон, распознает речь: pyttsx3 и speech_recognition<br><br>
-   <img src="PROJEC_IMGS/alisa.jpg" alt='' width='300' height='400'>
+   <img src="PROJEC_IMGS/alisa.jpg" alt='' width='250' height='300'>
    <br><a href="https://github.com/jonotyan/python/blob/main/desktopApps/Alice/app.py">Проект</a>
  </p>
 </div>
