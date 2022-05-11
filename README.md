@@ -62,3 +62,14 @@ _Регулярно пополняемая репа проектами на Pyth
    <br><a href="https://github.com/jonotyan/python/tree/main/2D%20games/pygame/FlappyBird">Проект</a>
  </p>
 </div>
+
+
+<div>
+ <h1>Like Alice</h1> <br>
+ <p>
+   <b>Краткое описание:</b><br>
+   Голосовой помощник на python. Слушает микрофон, распознает речь: pyttsx3 и speech_recognition<br><br>
+   <img src="PROJEC_IMGS/alisa.jpg" alt='' width='200' height='300'>
+   <br><a href="https://github.com/jonotyan/python/tree/main/2D%20games/pygame/FlappyBird">Проект</a>
+ </p>
+</div>
