@@ -73,3 +73,23 @@ _Регулярно пополняемая репа проектами на Pyth
    <br><a href="https://github.com/jonotyan/python/blob/main/desktopApps/Alice/app.py">Проект</a>
  </p>
 </div>
+
+<div>
+ <h1>Arcade game</h1> <br>
+ <p>
+   <b>Краткое описание:</b><br>
+   Уровень 2D-аркады. Pygame<br><br>
+   <img src="PROJEC_IMGS/gameLVL1.png" alt='' width='250' height='300'>
+   <br><a href="">Проект</a>
+ </p>
+</div>
+
+<div>
+ <h1>Data Science & Machine learning</h1> <br>
+ <p>
+   <b>Краткое описание:</b><br>
+   Выявление вероятности покупок на сайте.<br><br>
+   <img src="PROJEC_IMGS/ml.png" alt='' width='250' height='300'>
+   <br><a href="">Проект</a>
+ </p>
+</div>
