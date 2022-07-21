@@ -79,7 +79,7 @@ _Регулярно пополняемая репа проектами на Pyth
  <p>
    <b>Краткое описание:</b><br>
    Уровень 2D-аркады. Pygame<br><br>
-   <img src="PROJEC_IMGS/gameLVL1.png" alt='' width='250' height='300'>
+   <img src="PROJEC_IMGS/gameLVL1.png" alt='' width='450' height='300'>
    <br><a href="">Проект</a>
  </p>
 </div>
@@ -88,8 +88,8 @@ _Регулярно пополняемая репа проектами на Pyth
  <h1>Data Science & Machine learning</h1> <br>
  <p>
    <b>Краткое описание:</b><br>
-   Выявление вероятности покупок на сайте.<br><br>
-   <img src="PROJEC_IMGS/ml.png" alt='' width='250' height='300'>
+   Выявление вероятности покупок на сайте c вероятностью > 80%.<br><br>
+   <img src="PROJEC_IMGS/ml.png" alt='' width='450' height='300'>
    <br><a href="">Проект</a>
  </p>
 </div>
