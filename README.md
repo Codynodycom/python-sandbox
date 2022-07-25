@@ -103,3 +103,23 @@ _Регулярно пополняемая репа проектами на Pyth
    <br><a href="https://github.com/jonotyan/python-sandbox/tree/main/panda3D">Проект</a>
  </p>
 </div>
+
+<div>
+ <h1>Простая 2D-змейка</h1> <br>
+ <p>
+   <b>Краткое описание:</b><br>
+   Змейка написана с использованием модуля Turtle.<br><br>
+   <img src="PROJEC_IMGS/snake.png" alt='' width='500' height='300'>
+   <br><a href="https://github.com/jonotyan/Simple-Snake">Проект</a>
+ </p>
+</div>
+
+<div>
+ <h1>Telegram-бот "Хранитель паролей"</h1> <br>
+ <p>
+   <b>Краткое описание:</b><br>
+   Бот имеет бд с возможностями поиска, записи и удаления аккаунтов. По типу записной книжки. Также умеет генерировать случайные пароли.<br><br>
+   <img src="PROJEC_IMGS/bot.png" alt='' width='500' height='400'>
+   <br><a href="https://github.com/jonotyan/telegram-password-manager">Проект</a>
+ </p>
+</div>
