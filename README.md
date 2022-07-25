@@ -93,3 +93,13 @@ _Регулярно пополняемая репа проектами на Pyth
    <br><a href="https://github.com/jonotyan/python-sandbox/tree/main/ML">Проект</a>
  </p>
 </div>
+
+<div>
+ <h1>Песочница на основе Panda3D</h1> <br>
+ <p>
+   <b>Краткое описание:</b><br>
+   Простая песочница с открытым миром. Основной функционал майнкрафта.<br><br>
+   <img src="PROJEC_IMGS/pands.png" alt='' width='600' height='300'>
+   <br><a href="https://github.com/jonotyan/python-sandbox/tree/main/panda3D">Проект</a>
+ </p>
+</div>
