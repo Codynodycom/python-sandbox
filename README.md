@@ -99,7 +99,7 @@ _Регулярно пополняемая репа проектами на Pyth
  <p>
    <b>Краткое описание:</b><br>
    Простая песочница с открытым миром. Основной функционал майнкрафта.<br><br>
-   <img src="PROJEC_IMGS/pands.png" alt='' width='600' height='300'>
+   <img src="PROJEC_IMGS/pands.png" alt='' width='500' height='400'>
    <br><a href="https://github.com/jonotyan/python-sandbox/tree/main/panda3D">Проект</a>
  </p>
 </div>
